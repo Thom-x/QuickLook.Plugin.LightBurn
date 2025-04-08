@@ -2,8 +2,8 @@
     <PropertyGroup>
         <OutputType>Library</OutputType>
         <TargetFramework>net462</TargetFramework>
-        <RootNamespace>QuickLook.Plugin.HelloWorld</RootNamespace>
-        <AssemblyName>QuickLook.Plugin.HelloWorld</AssemblyName>
+        <RootNamespace>QuickLook.Plugin.LightBurn</RootNamespace>
+        <AssemblyName>QuickLook.Plugin.LightBurn</AssemblyName>
 	    <Platforms>AnyCPU;x64</Platforms>
 	    <UseWPF>true</UseWPF>
 	    <UseWindowsForms>true</UseWindowsForms>
